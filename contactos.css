@@ -1,0 +1,14 @@
+#logo_image {
+	display: block;	
+	margin-left: auto;
+	margin-right: auto;
+}
+
+@media (min-width: 768px){
+    .navbar-nav{
+        float:none;
+        margin: 0 auto;
+        display: table;
+        table-layout: fixed;
+    }
+}
