@@ -9,6 +9,16 @@
 	margin-right: auto;
 }
 
+.login_form{
+  display: table;
+  margin: 0 auto;
+  padding-top: 10%;
+  padding-left: 10%;
+  zoom: 0.90;
+  -moz-transform: scale(0.90);
+}
+
+
 @media (min-width: 768px){
     .navbar-nav{
         float:none;
