@@ -16,4 +16,13 @@
 
 .empresas_form{
 	margin-left: 10%;
+    margin-right: 10%;
 }
+
+.panel_image{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    max-width: 40%;
+    height: auto;
+}    
